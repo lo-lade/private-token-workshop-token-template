@@ -1,4 +1,8 @@
-
-# Compliant Private Tokens Workshop - Token Template
-
-This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
+- **Github Repo:**  https://github.com/lo-lade/private-token-workshop-token-template
+- **Deployment address:**  `aleo1cg93ymcpzhpvp528503t6mdhyu90waj8vqg5vkp89llgns2r25gq2pwep6`
+- **Deployment Id:** `at1vxgdutjrymcvqj2dcrgpj5c2as48wkszqrzjygr7y6ws2s899uxqq8gll3`
+- **mint_public:** `at1x9f405ux3w55udcuam0ylm6w4nju0g5n2w27lfhs8u7v9tdzqg9s5dvz3e`
+- **mint_private:** `at1rpjz7hp296rs85udx4wcpch26l45k69s8vju3zqym0jdyhwmzq9qvyvjq2`
+- **transfer_public:** `at1t4x3z3r2ahqyugxjtxa6f6fqjwspjme53l6srujzj73eyew2usqsv6hqc4`
+- **transfer_private:** `at17ta464z5fxpf6cc684svclzvkhq664vfwed5tfay5mdvu5979vpqvcx7w3`
+- **program name:** `lolade_token.aleo`
